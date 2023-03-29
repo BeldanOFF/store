@@ -1,6 +1,6 @@
 import os
 import random
-
+#LADNO
 from flask import Flask, render_template, request, redirect, url_for, session, abort, flash
 from flask_admin import Admin, form
 from flask_admin.contrib.sqla import ModelView
